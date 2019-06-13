@@ -1,38 +1,79 @@
 ## 个人简历
-![icon](shanghai university of finance and economics.jpg)
 
-You can use the [editor on GitHub](https://github.com/yang9599/yang9599.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+姓名：杨远航
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+地址：上海市杨浦区国定路777号上海财经大学宁远楼
 
-### Markdown
+电话：(+86)132-1616-8813
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+邮箱：yangyh_0329@163.com
+
+github主页：[github](https://github.com/yang9599)
+
+### 教育背景
 
 ```markdown
-Syntax highlighted code block
+2018.09-至今              上海财经大学           金融信息工程           硕士
 
-# Header 1
-## Header 2
-### Header 3
+2014.09-2018.06           浙江工商大学          信息管理与信息系统      本科
+```
+### 获奖经历
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### 国家级：   
 
-**Bold** and _Italic_ and `Code` text
+2015年第五届全国大学生电子竞赛“创新、创意及创业”挑战赛总决赛三等奖； 
 
-[Link](url) and ![Image](src)
+2016年“创青春”中国青年互联网创业大赛优秀作品奖
+
+#### 省级：     
+
+2015年浙江省“原助杯”第十届大学生电子商务竞赛本科商务类一等奖；
+
+2016年“创青春”浙江省第十届挑战杯·奥康大学生创业大赛荣获银奖；
+
+2016年浙江省“大红鹰杯”第十一届大学生电子商务竞赛本科技术类二等奖；
+
+2017年浙江省“财通证券杯”第十二届大学生电子商务竞赛本科商务类二等奖；
+
+### 竞赛经历
+```markdown
+**2015.11-2016.08                  宝宝玩啥——基于自适应学习技术的早教平台        2016年浙江省第十一届电子商务竞赛**   
+
+作为**负责人**参加浙江省电子商务竞赛技术组，获得了二等奖的优异成绩。在此过程中，经历了“产品创意-产品构思-产品设计-产品开发-产品运营推广-
+产品维护”整个过程。参与了整个产品从构思到开发的全过程，熟悉了自适应学习技术的算法流程。为接下来的数据挖掘和机器学习探索之路做好了铺垫。
+
+**2016.03-2016.05                  群测群利——基于众筹模式的检测平台               2016年浙江省挑战杯创业大赛**
+
+作为**挑战杯**的第四负责人，参与到产品的运营推广的内容和平台网站的维护工作。挑战杯作为最高级别的大学生创业大赛，评委均来自企业和投资人，
+对产品商业逻辑和运行推广有极其高的要求。我们团队通过微信公众号和网站的运营推广，当时已经将该产品投入到市场使用，得到了评委和百姓的一致好评。
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 数据挖掘和机器学习的探索
+```markdown
+**2019.01-2019.04               处理位置数据和利用机器学习方法做预测的初步探索**
 
-### Jekyll Themes
+利用浙江移动公司提供的个人位置信息，通过提取个人的轨迹特征，利用机器学习的方法预测个人的信用情况或者未来出行计划等。
+同时也利用深度学习，构建轨迹网格，利用CNN模型预测，预测效果更佳。详情可见github个人主页。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yang9599/yang9599.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**2019.04-至今                  上海通用汽车有限公司车辆碰撞预测项目（项目负责人）**
 
-### Support or Contact
+在前期对轨迹数据的初步探索后，利用轨迹数据和速度加速度数据预测驾驶人的驾驶习惯。总数据量高达4.1亿条左右，做特征工程，
+利用机器学习的方法（包括SVM，随机森林，XGBOOST）和深度学习的方法（包括CNN，RNN,CONVLSTM等）做预测。详情可见github个人主页。
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 个人主页及博客
+
+2017年成为清华大学五道口金融学院互联网金融门户网站——未央网的专栏作者。并发表了数篇个人博客，阅读量均破千。 [详情戳这里](https://www.weiyangx.com/author/Lighthouse_hang)
+
+2017年授权《人人都是产品经理》网站发表一篇名为《2016年互联网支付发展情况》，阅读量达到20k（2019/3/16的统计数据）。[详情戳这里](http://www.woshipm.com/it/499518.html)
+
+2019年建立个人github主页，将自己平时编写的代码放入github主页中，内容包括用java编写的地铁售票系统，用python编写的星球大战的小游戏，还有前面提到的个人研究的成果内容极其代码。[详情戳这里](https://github.com/yang9599)
+
+### 专业技能
+
+英语：CET-6（481分）； 
+
+计算机：浙江省数据库三级； 学习过C， JAVA， PYTHON， DELPHI等编程语音，对PYTHON较为精通，C和JAVA较为熟练。
+应用软件：Microsoft office（对Word和PowerPoint较为熟练）； SPSS；Adobe Illustrator； Adobe Photoshop 。
+
