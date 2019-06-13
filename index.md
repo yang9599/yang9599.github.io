@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 个人简历
+![icon](shanghai university of finance and economics.jpg)
 
 You can use the [editor on GitHub](https://github.com/yang9599/yang9599.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
